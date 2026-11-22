@@ -7,7 +7,7 @@
 ## 🌐 Démo en ligne
 
 👉 **Tester l'application ici :**  
-[https://aminenakrou.github.io/Flood_It_Game/](https://aminenakrou.github.io/Flood_It_Game/)
+[https://aminenakrou.github.io/flood-it-jeu/](https://aminenakrou.github.io/flood-it-jeu/)
 
 ---
 
